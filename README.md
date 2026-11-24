@@ -4,6 +4,10 @@ Um jogo simples de quebrar blocos desenvolvido em Python com Pygame. Controle a
 plataforma para rebater a bola, destrua todos os blocos e tente alcançar a maior
 pontuação.
 
+## Visual do jogo
+
+![Visual do jogo Brick Breaker](assets/brick-breaker.svg)
+
 ## Requisitos
 
 - Python 3

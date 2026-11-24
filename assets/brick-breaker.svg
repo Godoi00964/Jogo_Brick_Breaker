@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title description">
+  <title id="title">Visual do jogo Brick Breaker</title>
+  <desc id="description">Tela preta com blocos verdes, uma bola branca, uma plataforma azul e a pontuação em amarelo.</desc>
+  <rect width="800" height="800" fill="#000"/>
+
+  <g fill="#00ff00">
+    <path d="M10 10h93v15H10z M108 10h93v15h-93z M206 10h93v15h-93z M304 10h93v15h-93z M402 10h93v15h-93z M500 10h93v15h-93z M598 10h93v15h-93z M696 10h93v15h-93z"/>
+    <path d="M10 35h93v15H10z M108 35h93v15h-93z M206 35h93v15h-93z M304 35h93v15h-93z M402 35h93v15h-93z M500 35h93v15h-93z M598 35h93v15h-93z M696 35h93v15h-93z"/>
+    <path d="M10 60h93v15H10z M108 60h93v15h-93z M206 60h93v15h-93z M304 60h93v15h-93z M402 60h93v15h-93z M500 60h93v15h-93z M598 60h93v15h-93z M696 60h93v15h-93z"/>
+    <path d="M10 85h93v15H10z M108 85h93v15h-93z M206 85h93v15h-93z M304 85h93v15h-93z M402 85h93v15h-93z M500 85h93v15h-93z M598 85h93v15h-93z M696 85h93v15h-93z"/>
+    <path d="M10 110h93v15H10z M108 110h93v15h-93z M206 110h93v15h-93z M304 110h93v15h-93z M402 110h93v15h-93z M500 110h93v15h-93z M598 110h93v15h-93z M696 110h93v15h-93z"/>
+  </g>
+
+  <rect x="400" y="500" width="15" height="15" fill="#fff"/>
+  <rect x="350" y="750" width="100" height="15" fill="#00f"/>
+  <text x="10" y="790" fill="#ff0" font-family="Arial, sans-serif" font-size="24">Pontuacao: 0</text>
+</svg>
